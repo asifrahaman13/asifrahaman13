@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+I am Asif Rahaman from India 🇮🇳 ❤️. I am currently a third year engineering student at IIT Bhilai. 
+
+## 🧑🏼‍💻 About me
+
+- I spend most of the time coding building some side projects, or contribute to the startup where I work.
+- Hmm its difficult to sleep without solving a problem fully. 😥
+- Actively participate in hackathons.
+
+## Discuss with me about
+- 💻 Startups - Building something from 0 to 1. 
+- 👨🏻‍💻 Developments
+- 📚 Books
+- 💲 Finance
+- 😁 Stories 
+
+
+## Contact:
+- 📫 Email: asifrahaman162@gmail.com
+- 🖇️ Linkedin: https://www.linkedin.com/in/asif-rahaman-110099229/
+
 
 <!--
 **asifrahaman13/asifrahaman13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
