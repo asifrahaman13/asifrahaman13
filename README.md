@@ -6,6 +6,8 @@ I am Asif Rahaman from India 🇮🇳 ❤️. I am currently a third year engine
 - I spend most of the time coding building some side projects, or contribute to the startup where I work.
 - Hmm its difficult to sleep without solving a problem fully. 😥
 - Actively participate in hackathons.
+- Spend more time on github than Whatsapp or other social media.
+
 
 ## Discuss with me about
 - 💻 Startups - Building something from 0 to 1. 
