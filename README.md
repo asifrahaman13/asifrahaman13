@@ -1,5 +1,5 @@
 # Hi there 👋
-I am  from 127.0.0.1 🇮🇳❤️. I am a Homo sapiens who breathes oxygen.
+I am  from 127.0.0.1 ❤️. I am a Homo sapiens who breathes oxygen.
 
 ## 🧑🏼‍💻 About me
 
