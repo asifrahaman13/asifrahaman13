@@ -1,12 +1,12 @@
 # Hi there 👋
-I am Asif Rahaman from India 🇮🇳 ❤️. I am currently a third year engineering student at IIT Bhilai. 
+I am  from 127.0.0.1 🇮🇳❤️. I am a Homo sapiens who breathes oxygen.
 
 ## 🧑🏼‍💻 About me
 
-- I spend most of the time coding building some side projects, or contribute to the startup where I work.
-- Hmm its difficult to sleep without solving a problem fully. 😥
+- I spend most of the time coding, building some side projects, or contributing to the startup where I work.
+- Hmm, it's difficult to sleep without fully solving a problem. 😥
 - Actively participate in hackathons.
-- Spend more time on github than Whatsapp or other social media.
+- Spend more time on Git Hub than WhatsApp or other social media.
 
 
 ## Discuss with me about
@@ -14,7 +14,7 @@ I am Asif Rahaman from India 🇮🇳 ❤️. I am currently a third year engine
 - 👨🏻‍💻 Developments
 - 📚 Books
 - 💲 Finance
-- 😁 Stories 
+- 😁 Stories (crime, horror, detective, thriller, adventure, psycho thriller.....)
 
 
 ## Contact:
