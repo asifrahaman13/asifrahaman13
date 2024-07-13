@@ -19,8 +19,7 @@ I am  from 127.0.0.1 ❤️. I am a Homo sapiens who breathes oxygen.
 
 ## Contact:
 - 📫 Email: asifrahaman162@gmail.com
-- 🖇️ Linkedin: https://www.linkedin.com/in/asif-rahaman-110099229/
-
+- 😁 Make a pull request to this repository. 
 
 <!--
 **asifrahaman13/asifrahaman13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
